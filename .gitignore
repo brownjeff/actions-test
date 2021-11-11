@@ -1,2 +1,13 @@
+target
+out
+build
+.idea
+.bsp
 *.class
 *.log
+**/resources/local.conf
+.metals/
+.bloop/
+.ammonite/
+metals.sbt
+.vscode
